@@ -6,7 +6,7 @@
 
 Ejercicio 01: Hello World 1
 
-Ejercicio 02-08: Ejericios dart (
+Ejercicio 02-08: Ejericios dart
 
     02 Variables
     ![alt text](image.png)
@@ -23,7 +23,7 @@ Ejercicio 02-08: Ejericios dart (
     06 Classes
     07 Constructors and names
     08 Get and Set
-) 
+
 
 Ejercicio 09 abstract_class
 
