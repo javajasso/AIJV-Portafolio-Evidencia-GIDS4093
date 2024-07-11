@@ -5,33 +5,36 @@
 ## Ejercicios y Capturas
 
 Ejercicio 01: Hello World 1
+![image](https://github.com/user-attachments/assets/5b5e5aad-cc3f-4e3a-a81c-3cf9639dd2f5)
+![image](https://github.com/user-attachments/assets/dcc4b491-c885-4742-82dd-0f7b81191fb4)
+
 
 Ejercicio 02-08: Ejericios dart
 
-    02 Variables
+*02 Variables
     ![Captura de pantalla 2024-07-11 142028](https://github.com/user-attachments/assets/985ca4a9-5c5d-4a9f-b880-b62a3ccdb9a6)
 
 
-    03 Maps
+* 03 Maps
     ![Captura de pantalla 2024-07-11 142141](https://github.com/user-attachments/assets/70f64e7b-ce0b-4871-9ca0-cfbbcb1ec82c)
 
 
-    04 List, maps and interables
+* 04 List, maps and interables
    ![Captura de pantalla 2024-07-11 142234](https://github.com/user-attachments/assets/05259a61-645a-4f95-82e5-dfa1566f1105)
 
    ![Captura de pantalla 2024-07-11 142141](https://github.com/user-attachments/assets/f28de98d-7080-433b-b1d2-575c6399e2e2)
 
 
-    05 Functions
+* 05 Functions
     ![Captura de pantalla 2024-07-11 142316](https://github.com/user-attachments/assets/81fb42b1-045d-4318-8927-a43c476ad02d)
 
-    06 Classes
+* 06 Classes
     ![image](https://github.com/user-attachments/assets/0d130ce0-bab8-4c28-8f81-d4a65123b9e8)
 
-    07 Constructors and names
+* 07 Constructors and names
     ![image](https://github.com/user-attachments/assets/c3321cbb-612f-4a3a-be99-fdc6384a1525)
 
-    08 Get and Set
+* 08 Get and Set
     ![image](https://github.com/user-attachments/assets/b7343f98-e59d-44d3-9da4-d6f99050dad6)
 ![image](https://github.com/user-attachments/assets/8bbc40a2-47de-4696-8898-9ba37e81c294)
 
@@ -57,6 +60,8 @@ Ejercicio 14-15: streams (Streams y Streams await)
 ![image](https://github.com/user-attachments/assets/f71d3093-9cce-4fdf-b1c6-0c82223c51eb)
 
 16 Aplicación Helloworld 
+![image](https://github.com/user-attachments/assets/e5c40571-385c-49ff-96ae-392e070c3da0)
+![image](https://github.com/user-attachments/assets/b414bbb8-13ba-4eb1-be29-c45f6c17f522)
 
 17 Aplicación YesOrNo: yes_no_app
 
